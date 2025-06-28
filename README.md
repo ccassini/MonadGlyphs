@@ -2,6 +2,19 @@
 
 MonadGlyphs is an algorithmic NFT art collection inspired by the original Autoglyphs, deployed on the Monad blockchain. Each NFT generates unique ASCII art using deterministic algorithms.
 
+
+
+
+# Autoglyphs
+
+
+![image](https://github.com/user-attachments/assets/56166cfe-2ec0-443d-9ef6-93ef26e1ab27)
+
+
+# MonadGlyphs
+
+![image](https://github.com/user-attachments/assets/6f93d45c-c822-4842-9a57-cdcc27d17e6a)
+
 ## Features
 
 - **Free Mint**: No payment required to mint
