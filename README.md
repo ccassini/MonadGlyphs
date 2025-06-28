@@ -39,6 +39,8 @@ Each MonadGlyph is generated using:
 
 ## Example Output
 
+![image](https://github.com/user-attachments/assets/0b77cb8a-f8f1-4e3f-ab76-2fbca1a97f0e)
+
 ```
 ....................X...........................................
 ...................XXX..........................................
